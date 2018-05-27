@@ -1,0 +1,16 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=fat51.stp
+Dependencies=
+
+[Project1]
+Filename=..\..\kern_dev\soft2\stm\2\kern_stm_1.stp
+Dependencies=
+[Options]
+ActiveProject=fat51
+ActiveConfig=Debug
+AddSortedElements=1

@@ -1,0 +1,42 @@
+Protel Design System Design Rule Check
+PCB File : \Users\Pal\DEVICES\FAT51\HARD\FAT51.PcbDoc
+Date     : 27.05.2014
+Time     : 16:18:43
+
+Processing Rule : Clearance Constraint (Gap=2mm) (InPoly),(HasPad('Free-0') Or
+HasPad('Free-1') Or
+HasPad('Free-2') Or
+HasPad('Free-3') Or
+HasPad('Free-4') Or
+HasPad('Free-5') Or
+HasPad('Free-6') Or
+HasPad('Free-7') Or
+HasPad('Free-8') Or
+HasPad('Free-9') Or
+HasP
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InPoly),(InPoly)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:43

@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [FAT51.PrjPCB]
+   Generated File[FAT51.GTL]
+   Generated File[FAT51.GBL]
+   Generated File[FAT51.GTS]
+   Generated File[FAT51.GBS]
+   Generated File[FAT51.GKO]
+   Generated File[FAT51.RUL]
+   Generated File[FAT51.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation  At 16:50:13 On 27.05.2014
